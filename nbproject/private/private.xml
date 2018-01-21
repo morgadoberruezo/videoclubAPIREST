@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/app/config/parameters.yml</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Services/Helpers.php</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Resources/config/routing/user.yml</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/BDBundle/Entity/Videos.php</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Resources/config/routing/video.yml</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Services/JwtAuth.php</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/app/config/services.yml</file>
+            <file>file:/C:/xampp/htdocs/symfony/2018/videoclub/src/AppBundle/Controller/VideoController.php</file>
+        </group>
+    </open-files>
+</project-private>

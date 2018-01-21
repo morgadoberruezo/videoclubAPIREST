@@ -1,0 +1,18 @@
+app_home:
+    path: /
+    defaults: { _controller: AppBundle:Default:index }
+
+app_conocenos:
+    path: /conocenos
+    defaults: { _controller: AppBundle:Default:conocenos }
+
+app_login:
+    path: /login
+    defaults: { _controller: AppBundle:Default:login }
+    methods: POST
+
+app_probar:
+    path: /check
+    defaults: { _controller: AppBundle:Default:probarToken }
+    methods: POST
+ 

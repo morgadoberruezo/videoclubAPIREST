@@ -1,0 +1,10 @@
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/*
+/bin/*
+/test/*
+/var/*
+/var/cache/*
+/nbproject/*

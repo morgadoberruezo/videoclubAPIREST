@@ -1,0 +1,12 @@
+app_video:
+    resource: "@AppBundle/Resources/config/routing/video.yml"
+    prefix:   /videos
+
+app_user:
+    resource: "@AppBundle/Resources/config/routing/user.yml"
+    prefix:   /user
+    
+app_default:
+    resource: "@AppBundle/Resources/config/routing/default.yml"
+    prefix:   /
+
